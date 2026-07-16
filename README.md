@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer @ Convxa
 
-I build scalable web platforms and real-time streaming tools — from B2B SaaS to live-streaming infrastructure.
+I build scalable web platforms and real-time streaming tools  from B2B SaaS to live-streaming infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-smailzeriouil.online-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://smailzeriouil.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smail--zeriouil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/smail-zeriouil/)
