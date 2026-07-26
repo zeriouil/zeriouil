@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Building tools, extensions & web experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;JavaScript+%7C+HTML+%7C+CSS+Enthusiast;Building+Browser+Extensions+%26+Tools;Always+Learning+New+Frameworks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;IT+Project+Manager+%40+Convxa;Building+Scalable+Web+Applications;Always+Learning+New+Frameworks" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 - 🔭 Currently working on browser tools & extensions (e.g. **Kick Stream Clipper**)
 - 🌱 Learning new frontend & backend frameworks
-- 💬 Ask me about JavaScript, HTML/CSS, and browser extension development
+- 💬 Ask me about full-stack development, system architecture, and project management
 - ⚡ Fun fact: I like building small tools that solve real problems
 
 ---
