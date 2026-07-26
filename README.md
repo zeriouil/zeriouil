@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 **Frontend Frameworks & Libraries**
@@ -70,6 +71,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Mobile & Desktop**
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -108,6 +118,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Convxa](https://convxa.com) | Web application built with a Python backend and server-rendered templating | FastAPI, Python, Jinja2 |
+| [Bird Discoverer](https://github.com/zeriouil/bird-discoverer) | Android app that detects and classifies bird species in real time from the camera using on-device ML | Kotlin, Jetpack Compose, CameraX, TensorFlow Lite, ML Kit |
+| [Slowed & Reverb Studio](https://github.com/zeriouil/slowing-reverbing) | Desktop app for creating Slowed + Reverb / Nightcore remixes with a live audio visualizer and video export | Electron, Web Audio API, WebCodecs API |
 | [Kick Stream Clipper Ultimate](https://github.com/zeriouil/Kick-Stream-Clipper-Ultimate-v1.0.0-) | Browser extension for clipping Kick live streams | JavaScript, Chrome Extension API |
 | [zer-test](https://github.com/zeriouil/zer-test) | Sandbox/test repository | HTML |
 
