@@ -9,6 +9,11 @@
   <a href="https://github.com/zeriouil"><img src="https://img.shields.io/github/followers/zeriouil?label=Follow&style=social" /></a>
 </p>
 
+<p align="center">
+  <a href="https://smailzeriouil.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/smail-zeriouil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -111,6 +116,8 @@
 ### 📫 Connect with me
 
 <p align="center">
+  <a href="https://smailzeriouil.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/smail-zeriouil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/zeriouil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
