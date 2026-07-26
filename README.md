@@ -53,6 +53,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
 </p>
 
 **Databases**
@@ -100,6 +102,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Convxa](https://convxa.com) | Web application built with a Python backend and server-rendered templating | FastAPI, Python, Jinja2 |
 | [Kick Stream Clipper Ultimate](https://github.com/zeriouil/Kick-Stream-Clipper-Ultimate-v1.0.0-) | Browser extension for clipping Kick live streams | JavaScript, Chrome Extension API |
 | [zer-test](https://github.com/zeriouil/zer-test) | Sandbox/test repository | HTML |
 
